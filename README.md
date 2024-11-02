@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello! 👋
+
+I'm Hunter, an undergraduate student at San Jose State University studying computer science.
+Currently, I am:
+- 🤝 Contributing to projects at [SJSU-SCE](sce.sjsu.edu) 
+- 🤖 Performing intensive GenAI research 
+- 🧠 Learning new technologies!!
 
 <!--
 **hunter-nguyen/hunter-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
