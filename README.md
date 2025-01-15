@@ -4,7 +4,7 @@ I'm Hunter, an undergraduate student at San Jose State University studying compu
 
 ### Currently, I am:
 - 🤝 Contributing to projects at [SJSU-SCE](sce.sjsu.edu) 
-- 🤖 Performing intensive GenAI research 
+- 🤖 AI research @ SJSU 
 - 🧠 Learning new technologies!!
 
 <!--
