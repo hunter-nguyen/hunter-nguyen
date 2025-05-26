@@ -2,7 +2,7 @@
 
 ### Hunter Nguyen
 - Bachelors in Computer Science at [San Jose State University](https://sjsu.edu) (May '27)
-- Developing projects at [SJSU SCE](sce.sjsu.edu)
+- Developing projects at [SJSU SCE](https://sce.sjsu.edu)
 - 4x [Hackathon Wins](https://devpost.com/hunter-nguyen)
 - Bay Area local
 
